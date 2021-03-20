@@ -11,7 +11,9 @@ And Run one by one
 ```
 $ apt update && apt upgrade  
 ```
+```
 $ pkg install python2 
+```
 ```
 $ pkg install git  
 ```
