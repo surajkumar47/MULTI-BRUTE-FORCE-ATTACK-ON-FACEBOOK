@@ -8,7 +8,10 @@ And Run one by one
 ![PicsArt_10-25-08 29 55](https://user-images.githubusercontent.com/75029023/111865355-9061ca80-89a1-11eb-91b9-6c5f35e01cfe.png)
 
 # COMMAND LIST 1 
+- Just, Type this command one by one
+```
 * $ apt update && apt upgrade  
+```
 * $ pkg install python2 
 * $ pkg install git  
 * $ pip2 install mechanize  
