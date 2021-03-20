@@ -5,6 +5,8 @@ Step By Step
 First of All Download Termux from Google Play and Install it  After installing just give these commands to Termux  
 And Run one by one  
 
+![PicsArt_10-25-08 29 55](https://user-images.githubusercontent.com/75029023/111865355-9061ca80-89a1-11eb-91b9-6c5f35e01cfe.png)
+
 # COMMAND LIST 1 
 * $ apt update && apt upgrade  
 * $ pkg install python2 
