@@ -21,26 +21,46 @@ $ pkg install git
 $ pip2 install mechanize  
 ```
 ```
-* $ git clone https://github.com/pirmansx/mbf 
+$ git clone https://github.com/pirmansx/mbf 
 ``` 
 ```
-* $ cd mbf 
+$ cd mbf 
 ```
 ```
-* $ python2 MBF.py  
+$ python2 MBF.py  
 ```
 
 # COMMAND LIST 2  
-* $ pkg update 
-* $ pkg upgrade 
-* $ pkg install python2  
-* $ pkg install perl 
-* $ pkg install curl 
-* $ pkg install mechanize 
-* $ pip2 install requsets 
-* $ git clone https://github.com/Senitopeng/fbbrute 
-* $ cd fbbrute 
-* $ python2 fbbrute.py  
+```
+$ pkg update 
+```
+```
+$ pkg upgrade 
+```
+```
+$ pkg install python2  
+```
+```
+$ pkg install perl 
+```
+```
+$ pkg install curl 
+```
+```
+$ pkg install mechanize 
+```
+```
+$ pip2 install request
+```
+```
+$ git clone https://github.com/Senitopeng/fbbrute 
+```
+```
+$ cd fbbrute 
+```
+```
+$ python2 fbbrute.py  
+```
 
 # COMMAND LIST 3 
 * $ apt update && apt upgrade  
