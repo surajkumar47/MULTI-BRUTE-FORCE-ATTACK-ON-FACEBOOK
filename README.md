@@ -63,18 +63,42 @@ $ python2 fbbrute.py
 ```
 
 # COMMAND LIST 3 
-* $ apt update && apt upgrade  
-* $ pkg install pip 
-* $ pkg install python 
-* $ pkg install python2  
-* $ pip2 install mechanize 
-* $ pkg install git 
-* $ git clone https://github.com/hnov7/mbf 
-* $ cd mbf 
-* $ ls 
-* $ python2 mbf.py 
-* $ 1 
-* $ y
+```
+$ apt update && apt upgrade 
+```
+```
+$ pkg install pip 
+```
+```
+$ pkg install python 
+```
+```
+$ pkg install python2  
+```
+```
+$ pip2 install mechanize 
+```
+```
+$ pkg install git 
+```
+```
+$ git clone https://github.com/hnov7/mbf 
+```
+```
+$ cd mbf 
+```
+```
+$ ls 
+```
+```
+$ python2 mbf.py 
+```
+```
+$ 1 
+```
+```
+$ y
+```
 
 ![44804662_315681345917191_1671247044175462400_o](https://user-images.githubusercontent.com/75029023/111865398-b4251080-89a1-11eb-802a-d00f8e6ed33c.jpg)
 
