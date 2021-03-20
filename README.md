@@ -38,4 +38,4 @@ And Run one by one
 * $ ls 
 * $ python2 mbf.py 
 * $ 1 
-* $ [y]
+* $ y
