@@ -14,7 +14,7 @@ And Run one by one
 * $ cd mbf 
 * $ python2 MBF.py  
 
-# Command List 2  
+# COMMAND LIST 2  
 * $ pkg update 
 * $ pkg upgrade 
 * $ pkg install python2  
@@ -26,7 +26,7 @@ And Run one by one
 * $ cd fbbrute 
 * $ python2 fbbrute.py  
 
-# Command List 3 
+# COMMAND LIST 3 
 * $ apt update && apt upgrade  
 * $ pkg install pip 
 * $ pkg install python 
