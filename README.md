@@ -17,10 +17,18 @@ $ pkg install python2
 ```
 $ pkg install git  
 ```
-* $ pip2 install mechanize  
-* $ git clone https://github.com/pirmansx/mbf  
+```
+$ pip2 install mechanize  
+```
+```
+* $ git clone https://github.com/pirmansx/mbf 
+``` 
+```
 * $ cd mbf 
+```
+```
 * $ python2 MBF.py  
+```
 
 # COMMAND LIST 2  
 * $ pkg update 
