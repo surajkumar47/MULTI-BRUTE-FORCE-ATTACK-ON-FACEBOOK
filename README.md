@@ -30,7 +30,7 @@ $ cd mbf
 $ python2 MBF.py  
 ```
 
-### ✰COMMAND LIST 2✰ :
+### ✰COMMAND LIST 2✰ :a
 ```
 $ pkg update 
 ```
